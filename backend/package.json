@@ -1,7 +1,6 @@
 {
   "name": "theatre-booking-backend",
   "version": "1.0.0",
-  "description": "CN6035 - Theatre Seat Booking REST API",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
